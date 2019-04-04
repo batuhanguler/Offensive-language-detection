@@ -1,5 +1,5 @@
 # Offensive_language_detection
-This project was completed part of the NLP module at Imperial College. The goal was to propose an original approach to solve this problem. We proposed a deep learning approach that uses transfer learning in order to adress the data scarcity problem.  A [paper](https://arxiv.org/abs/1903.08734) has been released where we discuss the details of our implementation.
+This project was completed part of the NLP module at Imperial College. The goal was to propose an original approach to solve this problem. We proposed a deep learning approach that uses transfer learning in order to adress the data scarcity problem. We used both unsupervised transfer learning (use pre-trained embeddings) and sequential transfer learning (tasks learned sequentially).  A [paper](https://arxiv.org/abs/1903.08734) has been released where we discuss the details of our implementation.
 
 Creators: Batuhan Güler - Alexis Laignelet - Nicolo Frisiani
 
